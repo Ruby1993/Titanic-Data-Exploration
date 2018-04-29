@@ -31,22 +31,22 @@ The porject inlcudes process below,
 
 ### Conclusion
 
-1. Age & Survivals
+- Age & Survivals
 
 For the survived people group, they have more people in the middle ages (from 20-40) and less teenager and children (from 0-20) compared with the died people group.
 
-...For the died people group, they have more seniors in the outliers, but its average age is lower than that in the survived people group.
+For the died people group, they have more seniors in the outliers, but its average age is lower than that in the survived people group.
 
 **Conclusion**: People in the middle ages have a higher survival rate.
 
-2. Class & Survivals
+- Class & Survivals
 
 More people survived in the first and second class, and less people survived in the third class.
 People in the first class are much elder compared to the people in the other class.
 
 **Conclusion**: People in the first class of Titanix has bigger survival chance.
 
-3. Gender & Survivals
+- Gender & Survivals
 
 Women got higher survival chances in Titanic shipwreck, especially the women in the first class.
 Female in the low class got 50% chance to survive.
